@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "outDir": "dist/main",
+    "noEmit": false
+  },
+  "include": ["src/main/**/*"]
+}
+
+// Made with Bob
