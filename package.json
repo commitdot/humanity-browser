@@ -1,9 +1,9 @@
 {
-  "name": "designlens-browser",
+  "name": "humanity-browser",
   "version": "0.1.0",
-  "description": "AI-powered design browser for automatic website redesign",
+  "description": "The world's first humanity-first browser with rule-based design tools and anti-AI protection",
   "main": "dist/main/index.js",
-  "author": "DesignLens Team",
+  "author": "Humanity Browser Team",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -19,8 +19,6 @@
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
     "chroma-js": "^3.1.2",
-    "ollama": "^0.6.3",
-    "openai": "^4.77.3",
     "postcss": "^8.4.49",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -39,8 +37,8 @@
     "wait-on": "^9.0.10"
   },
   "build": {
-    "appId": "com.designlens.browser",
-    "productName": "DesignLens Browser",
+    "appId": "com.humanity.browser",
+    "productName": "Humanity Browser",
     "directories": {
       "output": "release"
     },
